@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sheelugarggarg
 - 👀 I’m interested in data manuplation using sql
-- 🌱 I’m currently learning Phython
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Wipro,accenture
 - 📫 How to reach me by heart
 
